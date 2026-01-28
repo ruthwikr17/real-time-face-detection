@@ -1,4 +1,4 @@
-**Age and Gender Detection** <br><br>
+**Real-Time Age & Gender Intelligence System** <br>
 **Description** <br>
 A real-time age and gender detection system built using OpenCV DNN with Caffe pre-trained models. The project includes a Tkinter GUI for easy interaction, allowing users to either use the webcam or upload an image for prediction. <br><br>
 
